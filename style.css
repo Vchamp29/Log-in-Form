@@ -264,6 +264,10 @@ input.submit {
     .content{
         width: 320px;
         height: 480px;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
 
@@ -281,5 +285,9 @@ input.submit {
     .content{
         width: 280px;
         height: 420px;
+        margin: auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
 }
